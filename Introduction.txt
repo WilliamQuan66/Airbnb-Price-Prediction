@@ -1,0 +1,13 @@
+Introduction
+
+This project endeavours to conduct an in-depth analysis of Airbnb rental pricing in Sydney, utilizing a historical 
+dataset obtained from Airbnb as of December 10, 2022. It should be noted that Airbnb, as a marketplace for 
+transient and extended rentals, diverges significantly from the traditional short-term housing market like hotels
+ in terms of complexity and flexibility. This, in turn, necessitates a more nuanced pricing strategy. In light of this,
+ data analysis tools are deployed in constructing a model based on historical data, thus aiding hosts in 
+understanding the price formation and devising strategies that optimize their returns. Accordingly, this research
+ employs various machine learning techniques for predicting Airbnb rentals' nightly rates, thereby providing 
+valuable guidance for hosts in pricing decisions and investors in gauging potential revenue streams. To ensure 
+the predictive accuracy of the model, five distinct models are tested. The finalized model generated through 
+this research is designed to assist hosts in predicting prices based on relevant input information. Additionally, 
+this study elucidates business insights pertaining to variables that significantly influence pricing。
